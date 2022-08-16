@@ -1,4 +1,4 @@
- /*import google fonts */
+Hu /*import google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&family=Ubuntu:wght@400;500;700&display=swap');
 
 *{
@@ -44,7 +44,7 @@ body{
 }
 .container .stopwatch span{
     line-height: 55px;
-    font-size: 35px;
+    font-size: 28px;
     margin-right: 10px;
     font-weight: bolder;
 }
